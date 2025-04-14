@@ -1,14 +1,3 @@
-/*********************************************************************/
-/**   ACH2024 - Algoritmos e Estruturas de Dados II                 **/
-/**   EACH-USP - Primeiro Semestre de 2024                          **/
-/**   Turma 04 - Prof. Luciano Digiampietri                         **/
-/**                                                                 **/
-/**   Segundo Exercicio-Programa                                    **/
-/**                                                                 **/
-/**   <Felipe Freire Silva>                   <14749596>            **/
-/**                                                                 **/
-/*********************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 
